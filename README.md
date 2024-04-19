@@ -1,7 +1,5 @@
-# -LinuxCode
+# -LinuxCode   Linux系统编程学习笔记
 自用学习，笔记复习。
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+学习时间：2024年4月20日
+学习来源：Linux系统编程（李慧琴）
+参考资料：Unix环境高级编程，Linux系统编程
