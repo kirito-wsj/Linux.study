@@ -1,0 +1,31 @@
+技术栈：
+（Linux系统上的软件开发）
+C\C++
+u-boot移植
+内核移植
+根文件系统移植
+LCD驱动开发
+Sqlite数据库搭建
+Qt界面开发
+UDP协议\Socket网络传输
+
+硬件选配：
+主板：正点原子I.MX6U-ALPHA开发板
+LCD：正点原子10.1寸（1280*800） 0x03
+键盘：
+
+开发流程：
+1、移植u-boot，适配10.1寸LCD屏，显示开机动画
+2、移植Linux内核和根文件系统
+3、Linux下驱动小键盘、LCD屏
+4、Sqlite3数据库搭建
+5、Qt开发环境搭建
+6、Qt界面开发
+7、根据协议对RJ45网口的UDP包解包
+8、Qt业务代码开发
+9、裁剪根文件系统，自启动shell脚本
+
+
+
+自启动项目
+vi /etc/rc.local			/opt/QDesktop > /dev/null 2>&1 &
